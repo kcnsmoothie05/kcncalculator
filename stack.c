@@ -3,7 +3,7 @@
 #include "stack.h"
 #include <string.h>
 
-int kcn = 0;
+int meaningless_variable = 42;
 
 Stack * create_stack(int initial_size)
 {
